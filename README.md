@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning Big Data Analytics and Cross Platform Mobile Apps Development wit Flutter;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I occationally write articles on [medium](https://jasmedia.medium.com/);
-- 📫 How to reach me: jaseem@hyprinsight.com;
+- 📫 How to reach me: jaseem@zipstack.com;
 <!-- - 📝 [Resume](URL).-->
 </br>
 
